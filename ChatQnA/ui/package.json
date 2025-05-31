@@ -50,7 +50,7 @@
     "flowbite-svelte-icons": "^1.4.0",
     "fuse.js": "^6.6.2",
     "lodash": "^4.17.21",
-    "ramda": "^0.29.0",
+    "ramda": "^0.30.1",
     "sse.js": "^0.6.1",
     "svelte-notifications": "^0.9.98",
     "svrollbar": "^0.12.0"
