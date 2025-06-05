@@ -8,3 +8,5 @@ InstructorEmbedding
 optimum[habana]
 sentence-transformers==2.2.2
 uvicorn
+h11>=0.16.0 # not directly required, pinned by Snyk to avoid a vulnerability
+torch>=2.7.1 # not directly required, pinned by Snyk to avoid a vulnerability
