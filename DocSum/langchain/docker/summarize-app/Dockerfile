@@ -13,7 +13,7 @@
 # limitations under the License.
 
 
-FROM python:3.11-slim
+FROM python:3.13.5-slim
 
 RUN pip install poetry==1.6.1
 
