@@ -14,3 +14,4 @@ redis
 sentence-transformers
 unstructured
 unstructured[all-docs]
+transformers>=4.53.0 # not directly required, pinned by Snyk to avoid a vulnerability
