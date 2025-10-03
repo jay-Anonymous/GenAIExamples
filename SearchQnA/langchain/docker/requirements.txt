@@ -8,3 +8,4 @@ InstructorEmbedding
 optimum[habana]
 sentence-transformers==2.2.2
 uvicorn
+torch>=2.8.0 # not directly required, pinned by Snyk to avoid a vulnerability
