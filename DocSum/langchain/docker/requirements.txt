@@ -12,3 +12,4 @@ pydantic==1.10.13
 pypdf
 python-multipart
 sentence-transformers
+torch>=2.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
