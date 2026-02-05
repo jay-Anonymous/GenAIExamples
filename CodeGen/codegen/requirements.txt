@@ -3,3 +3,4 @@ langchain==0.1.11
 langchain-cli
 pydantic==1.10.13
 shortuuid
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
