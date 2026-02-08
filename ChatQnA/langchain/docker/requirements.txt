@@ -14,3 +14,4 @@ redis
 sentence-transformers
 unstructured
 unstructured[all-docs]
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
